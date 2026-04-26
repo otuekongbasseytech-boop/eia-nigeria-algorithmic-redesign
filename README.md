@@ -14,6 +14,26 @@ This study delivers a **comprehensive system-level review** of Nigeria’s EIA f
 
 The proposed 9-stage EIA workflow introduces a structured, feedback-driven system that enhances transparency, enforces compliance checkpoints, and integrates continuous monitoring into Nigeria’s environmental assessment process.
 
+## ⚡ Quick Insights (1-Minute Read)
+
+- Nigeria’s EIA system shows **persistent gaps between policy and real-world compliance**
+- Current workflows lack:
+  - Transparent screening mechanisms  
+  - Clear scoping disclosure  
+  - Enforced post-approval monitoring  
+- Sectoral audit (Akwa Ibom State):
+  - Infrastructure & Construction → **18%**
+  - Housing → **14%**
+  - Petroleum → **10%**
+  - Airports & Ports → **2% (lowest)**
+- The proposed solution:
+  - A **9-stage algorithmic workflow**
+  - Built-in **feedback loops**
+  - **Digitally verifiable public participation**
+  - Mandatory **follow-up monitoring**
+  - Outcome:
+  → A more transparent, auditable, and policy-aligned EIA system
+
 ## 🎯 Key Contributions
 - 🔍 Systematic review of Nigeria’s EIA legal and procedural framework  
 - ⚙️ Design of a **9-stage algorithmic EIA workflow** with feedback loops  
