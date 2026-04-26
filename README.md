@@ -8,7 +8,11 @@ Environmental Impact Assessment (EIA) remains Nigeria’s primary regulatory too
 
 This study delivers a **comprehensive system-level review** of Nigeria’s EIA framework and introduces an **algorithmically redesigned workflow** to improve transparency, accountability, and post-decision monitoring.
 
----
+## 🖼️ Algorithmic Framework Overview
+
+![EIA Algorithmic Workflow](./figures/eia-algorithmic-workflow.png)
+
+The proposed 9-stage EIA workflow introduces a structured, feedback-driven system that enhances transparency, enforces compliance checkpoints, and integrates continuous monitoring into Nigeria’s environmental assessment process.
 
 ## 🎯 Key Contributions
 - 🔍 Systematic review of Nigeria’s EIA legal and procedural framework  
