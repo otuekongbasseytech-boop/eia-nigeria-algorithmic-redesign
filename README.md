@@ -50,7 +50,7 @@ The redesigned EIA model introduces:
 
 ## 📂 Repository Structure
 /paper → Published journal paper (PDF)
-/figures → Diagrams, charts, and visual models
+
 
 
 ---
